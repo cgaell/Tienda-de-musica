@@ -1,2 +1,1 @@
-# Tienda-de-musica
-Actividad en clase de POO
+Hola este es mi programa de mi actividad del dia para estructura de datos
